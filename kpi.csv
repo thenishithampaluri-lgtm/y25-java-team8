@@ -1,0 +1,31 @@
+id,metric,value,weight
+1495,Quality Score,92,0.3
+1495,Task Completion Rate,88,0.25
+1495,Team Collaboration,85,0.2
+1496,Quality Score,78,0.3
+1496,Task Completion Rate,81,0.25
+1496,Team Collaboration,75,0.2
+1497,Quality Score,110,0.4
+1497,Task Completion Rate,82,0.3
+1497,Team Collaboration,87,0.2
+1498,Quality Score,98,0.4
+1498,Task Completion Rate,80,0.3
+1498,Team Collaboration,76,0.2
+1499,Quality Score,90,0.35
+1499,Task Completion Rate,88,0.3
+1499,Team Collaboration,85,0.15
+1500,Quality Score,84,0.35
+1500,Task Completion Rate,78,0.3
+1500,Team Collaboration,72,0.2
+1501,Quality Score,85,0.35
+1501,Task Completion Rate,80,0.25
+1501,Team Collaboration,79,0.2
+1502,Quality Score,88,0.35
+1502,Task Completion Rate,92,0.3
+1502,Team Collaboration,96,0.2
+1503,Quality Score,94,0.3
+1503,Task Completion Rate,90,0.3
+1503,Team Collaboration,85,0.2
+1504,Quality Score,82,0.3
+1504,Task Completion Rate,88,0.25
+1504,Team Collaboration,97,0.2
