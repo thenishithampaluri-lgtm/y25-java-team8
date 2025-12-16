@@ -1,4 +1,6 @@
-package com.app.inputs;
+package com.app.evaluator;
+
+import com.app.inputs.Employee;
 
 public class EvaluationResult {
     private final Employee employee;

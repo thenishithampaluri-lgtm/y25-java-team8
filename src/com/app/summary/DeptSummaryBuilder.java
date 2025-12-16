@@ -1,8 +1,8 @@
 package com.app.summary;
 
-import com.app.inputs.EvaluationResult;
-
 import java.util.*;
+
+import com.app.evaluator.EvaluationResult;
 
 public class DeptSummaryBuilder {
 
